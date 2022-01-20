@@ -1,0 +1,24 @@
+span.em{
+    font-style: oblique;
+}
+span.strong{
+    font-weight: bold;
+}
+span.smaller{
+    font-size: small;
+}
+span.s{
+    text-decoration: line-through;
+}
+span.italic{
+    font-style: italic;
+}
+span.bold{
+    font-weight: bold;
+}
+span.mark{
+    background-color: blueviolet;
+}
+span.dfn{
+    font-style: italic;
+}
